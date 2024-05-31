@@ -1,5 +1,5 @@
 ### Hi there 👋 Iam Sameed Uddin
-##### Iam Cloud DevOps Engineer with 10+ yrs of experience in IT from Hyderabad, currently in Florida 🌴
+##### Iam Cloud DevOps Engineer with 10+ yrs of experience in IT from Hyderabad, currently in US, Florida 🌴
 
 
 #### 🔭 I’m currently working on 
