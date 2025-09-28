@@ -1,9 +1,8 @@
 ### 👋 Hello everyone, you can call me Sameed
-**Cloud / DevOps Engineer · 13+ years in IT · Infrastructure & Automation**
-
+**Cloud / DevSecOps Engineer • AI / ML / GenAI Practitioner • 13+ yrs building infrastructure, automations & secure pipelines**
 ---
 ## 🧰 What I Do / My Mission
-I build scalable, resilient cloud infrastructure and automate deployments so teams can move faster.  
+I build resilient and secure infrastructure, automate pipelines, and I’m increasingly focused on integrating AI / ML / GenAI in a secure, reliable manner. I believe strong security + strong AI = powerful products. 
 I enjoy solving complex infra problems, optimizing pipelines, and driving reliability.
 
 ---
@@ -46,16 +45,32 @@ I enjoy solving complex infra problems, optimizing pipelines, and driving reliab
 *Many more repos — [see all](./?tab=repositories)*
 
 ---
-
 ## 📚 What I’m Learning & Exploring
 
-- Advanced observability & distributed tracing  
-- Service meshes (Istio / Linkerd)  
-- Infrastructure resilience & chaos engineering  
-- Edge computing & serverless patterns  
-- (Maybe Rust or a new language next…)
+- GenAI / LLMOps: prompt engineering, deployment, safety guardrails  
+- Model Governance, Data Lineage, Auditing & Compliance in AI systems  
+- Adversarial ML, drift detection and secure inference  
+- Best practices in DevSecOps applied to AI/ML workloads  
+- Tools: MLflow, DVC, Weights & Biases, HuggingFace, Vertex AI / SageMaker, LangChain etc.
 
 ---
+
+## 🛠️ Projects Aligned with AI / DevSecOps
+
+| Project | Description | What I Learnt / Implemented |
+|---|---|---|
+| **GenAI-SecOps Dashboard** | A small project that ingests security logs, uses LLM / genAI to generate insights & reports + alerts for anomalies | Built pipeline, deployed model, implemented access control, and automated scanning of incoming logs |
+| **MLModel Deployment Pipeline** | Example ML model from data → training → container → deployment on cloud | Incorporated model versioning, CI/CD, Docker + Kubernetes, monitoring of model drift, cost optimization |
+| **Prompt Engineering Toolkit** | Collection of prompts + workflows to fine-tune LLMs + test for injection / misuse, etc. | Learned to sanitise inputs, test for adversarial prompt examples, set rate limits etc. |
+
+## 🔧 Skills & Tech Snapshot
+
+**Cloud / Infra / DevSecOps:** AWS · GCP · Terraform · Ansible · Kubernetes · CI/CD · Static Analysis · Vulnerability Scanning  
+**AI / ML / GenAI:** MLflow · DVC · HuggingFace · PyTorch / TensorFlow · Prompt Engineering · LLMs · LangChain · Bedrock / Vertex AI  
+**Security Practices:** Secure pipelines · Secrets management · Access control · Audits & compliance · Drift detection · Adversarial ML basics  
+
+---
+
 
 ## 📊 GitHub Stats
 
